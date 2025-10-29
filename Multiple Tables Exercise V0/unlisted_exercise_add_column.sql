@@ -1,0 +1,2 @@
+ALTER TABLE client
+ADD COLUMN ClientMentor VARCHAR(10);
