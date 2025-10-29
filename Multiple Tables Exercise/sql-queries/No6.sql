@@ -8,4 +8,3 @@ FROM ordert o
 		ON o.InvoiceNo = d.InvoiceNo
 			JOIN product p
 				ON d.ProdCode = p.ProductCode;
--- review
