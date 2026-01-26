@@ -14,6 +14,9 @@ I'm a student learning database design and management. This portfolio demonstrat
 - JOINs (INNER, LEFT, RIGHT)
 - GROUP BY, ORDER BY, HAVING
 - Subqueries and aggregate functions
+- Stored Procedures
+- Triggers
+- Views
 
 **Database Design:**
 
